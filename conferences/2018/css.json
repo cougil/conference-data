@@ -41,7 +41,7 @@
     "url": "https://pitercss.com",
     "startDate": "2018-06-08",
     "endDate": "2018-06-09",
-    "city": "St. Petersburg",
+    "city": "Saint Petersburg",
     "country": "Russia",
     "twitter": "@pitercss_conf"
   },
@@ -58,6 +58,7 @@
     "name": "scotlandCSS",
     "url": "http://scotlandcss.com",
     "startDate": "2018-07-18",
+    "endDate": "2018-07-18",
     "city": "Edinburgh",
     "country": "Scotland",
     "twitter": "@scotlandCSS"
@@ -69,6 +70,17 @@
     "endDate": "2018-08-18",
     "city": "Buenos Aires",
     "country": "Argentina"
+  },
+  {
+    "name": "CSS-Minsk-JS",
+    "url": "http://css-minsk-js.by",
+    "startDate": "2018-09-21",
+    "endDate": "2018-09-22",
+    "city": "Minsk",
+    "country": "Belarus",
+    "cfpUrl": "https://www.papercall.io/cssminskjs",
+    "cfpEndDate": "2018-08-05",
+    "twitter": "@CSS_Minsk_JS"
   },
   {
     "name": "Web Unleashed",
@@ -92,21 +104,9 @@
     "name": "dotCSS",
     "url": "https://2018.dotcss.io",
     "startDate": "2018-11-08",
+    "endDate": "2018-11-08",
     "city": "Paris",
     "country": "France",
-    "twitter": "@dotCSS",
-    "affiliateText": "20% off with promocode: CONFSTECH",
-    "affiliateUrl": "https://www.dotcss.io/tickets?promocode=CONFSTECH"
-  },
-  {
-    "name": "CSS-Minsk-JS",
-    "url": "http://css-minsk-js.by",
-    "startDate": "2018-09-21",
-    "endDate": "2018-09-22",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@CSS_Minsk_JS",
-    "cfpUrl": "https://www.papercall.io/cssminskjs",
-    "cfpEndDate": "2018-08-05"
+    "twitter": "@dotCSS"
   }
 ]

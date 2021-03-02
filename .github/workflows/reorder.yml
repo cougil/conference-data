@@ -1,0 +1,49 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Reorder
+
+# Controls when the action will run. 
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  run:
+    name: reorder
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Delete existing reorder branch
+        uses: dawidd6/action-delete-branch@v3
+        with:
+          github_token: ${{github.token}}
+          branches: reorder
+          soft_fail: true
+      - name: Create reorder branch
+        uses: peterjgrainger/action-create-branch@v2.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: 'reorder'
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+      - name: Install dependencies
+        run: npm install
+      - name: Update source code
+        run: npm run reorder-confs
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Christian Grail
+          author_email: cgrail@users.noreply.github.com
+          message: 'Reorder conferences'
+          branch: reorder
+          add: '*.json'
+      - name: Create pull request
+        uses: thomaseizinger/create-pull-request@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.CONFS_REORDER }}
+          head: reorder
+          base: main
+          title: "Reorder conferences"

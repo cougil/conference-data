@@ -1,11 +1,12 @@
 [
   {
-    "name": "Product Management Festival APAC",
-    "url": "https://apac.productmanagementfestival.com/",
+    "name": "Product Management Festival",
+    "url": "https://apac.productmanagementfestival.com",
     "startDate": "2019-06-17",
     "endDate": "2019-06-18",
     "city": "Singapore",
-    "country": "Singapore"
+    "country": "Singapore",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "Industry",
@@ -24,15 +25,6 @@
     "country": "Czech Republic"
   },
   {
-    "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpcon/london",
-    "startDate": "2019-10-17",
-    "endDate": "2019-10-18",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@mindtheproduct"
-  },
-  {
     "name": "Leading the Product",
     "url": "https://www.leadingtheproduct.com/melbourne",
     "startDate": "2019-10-17",
@@ -40,6 +32,15 @@
     "city": "Melbourne",
     "country": "Australia",
     "twitter": "@LTP_AUS"
+  },
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpcon/london",
+    "startDate": "2019-10-17",
+    "endDate": "2019-10-18",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@mindtheproduct"
   },
   {
     "name": "Leading the Product",
@@ -55,24 +56,25 @@
     "url": "https://www.productschool.com/productcon/los-angeles",
     "startDate": "2019-11-12",
     "endDate": "2019-11-12",
-    "city": "Los Angeles",
+    "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "twitter": "@productschool"
   },
   {
-    "name": "Product Management Festival Europe",
+    "name": "Product Management Festival",
     "url": "https://productmanagementfestival.com/zurich/",
-    "startDate": "2019-11-13",
-    "endDate": "2019-11-14",
-    "city": "Zürich",
-    "country": "Switzerland"
+    "startDate": "2019-11-14",
+    "endDate": "2019-11-15",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "Productized",
     "url": "https://productized.co",
     "startDate": "2019-11-20",
     "endDate": "2019-11-22",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal",
     "twitter": "@productizedconf"
   }

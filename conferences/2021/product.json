@@ -1,0 +1,84 @@
+[
+  {
+    "name": "UX & Product Conference",
+    "url": "http://conference.uxandproduct.com",
+    "startDate": "2021-02-04",
+    "endDate": "2021-02-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/london/",
+    "startDate": "2021-02-09",
+    "endDate": "2021-02-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@productschool",
+    "cocUrl": "https://productschool.com/code-of-conduct/"
+  },
+  {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "online": true,
+    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpcon/singapore",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-19",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@MindtheProduct",
+    "cocUrl": "https://www.mindtheproduct.com/code-of-conduct/"
+  },
+  {
+    "name": "ABBYY Reimagine",
+    "url": "https://www.abbyy.com/abbyy-reimagine-2021",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-24",
+    "online": true,
+    "twitter": "@ABBYY_software"
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/san-francisco",
+    "startDate": "2021-04-08",
+    "endDate": "2021-04-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@productschool",
+    "cocUrl": "https://productschool.com/code-of-conduct/"
+  },
+  {
+    "name": "Integrate Remote - Microsoft Integration Conference",
+    "url": "https://www.biztalk360.com/integrate-2021-remote",
+    "startDate": "2021-06-01",
+    "endDate": "2021-06-03",
+    "online": true,
+    "twitter": "@BizTalk360"
+  },
+  {
+    "name": "European Product Owner & Requirements Engineering Day",
+    "url": "https://www.europeanporeday.com",
+    "startDate": "2021-06-23",
+    "endDate": "2021-06-23",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@europeanporeday"
+  },
+  {
+    "name": "#mtpcon Digital APAC",
+    "url": "https://www.mindtheproduct.com/mtpcon/digital/apac",
+    "startDate": "2021-04-14",
+    "endDate": "2021-04-15",
+    "twitter": "@MindtheProduct",
+    "online": true
+  }
+]

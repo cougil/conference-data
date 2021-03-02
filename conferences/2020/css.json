@@ -18,22 +18,13 @@
     "twitter": "@cssconfco"
   },
   {
-    "name": "SmashingConf",
-    "url": "https://smashingconf.com/austin-2020",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
-    "city": "Austin, Texas",
-    "country": "U.S.A.",
-    "twitter": "@SmashingConf"
-  },
-  {
-      "name": "CausaConf",
-      "url": "https://causaconf.pe/",
-      "startDate": "2020-06-13",
-      "endDate": "2020-06-13",
-      "city": "Lima",
-      "country": "Peru",
-      "twitter": "@causaconf"
+    "name": "CausaConf",
+    "url": "https://causaconf.pe",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-13",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf"
   },
   {
     "name": "CSScamp",
@@ -55,10 +46,19 @@
   },
   {
     "name": "SmashingConf",
+    "url": "https://smashingconf.com/austin-2020",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
+  },
+  {
+    "name": "SmashingConf",
     "url": "https://smashingconf.com/sf-2020",
     "startDate": "2020-11-10",
     "endDate": "2020-11-11",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@SmashingConf"
   }

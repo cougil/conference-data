@@ -4,7 +4,7 @@
     "url": "https://iosconf.sg",
     "startDate": "2020-01-16",
     "endDate": "2020-01-18",
-    "city": "Singapore ",
+    "city": "Singapore",
     "country": "Singapore",
     "twitter": "@iosconfsg"
   },
@@ -22,35 +22,40 @@
     "url": "http://www.uikonf.com",
     "startDate": "2020-05-17",
     "endDate": "2020-05-20",
-    "city": "Berlin",
-    "country": "Germany",
+    "online": true,
     "twitter": "@uikonf"
+  },
+  {
+    "name": "Apple Worldwide Developers Conference",
+    "url": "https://developer.apple.com/wwdc20",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-26",
+    "online": true
   },
   {
     "name": "Mobius",
     "url": "https://mobius-piter.ru/en",
     "startDate": "2020-06-23",
     "endDate": "2020-06-24",
-    "city": "St. Petersburg ",
+    "city": "Saint Petersburg",
     "country": "Russia",
-    "twitter": "@MobiusConf",
     "cfpUrl": "https://mobius-piter.ru/en/cfp",
-    "cfpEndDate": "2020-04-06"
+    "cfpEndDate": "2020-04-06",
+    "twitter": "@MobiusConf"
   },
   {
     "name": "Hacking with Swift: Live!",
     "url": "https://www.hackingwithswift.com/live",
     "startDate": "2020-07-13",
-    "endDate": "2020-07-14",
-    "city": "Bath",
-    "country": "U.K."
+    "endDate": "2020-07-16",
+    "online": true
   },
   {
     "name": "try! Swift",
     "url": "https://www.tryswift.co/events/2020/nyc",
     "startDate": "2020-08-30",
     "endDate": "2020-09-01",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A."
   },
   {
@@ -78,9 +83,9 @@
     "endDate": "2020-10-09",
     "city": "Bologna",
     "country": "Italy",
-    "twitter": "@pragmamarkorg",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform",
-    "cfpEndDate": "2020-05-31"
+    "cfpEndDate": "2020-05-31",
+    "twitter": "@pragmamarkorg"
   },
   {
     "name": "SwiftLeeds",
@@ -90,6 +95,14 @@
     "city": "Leeds",
     "country": "U.K.",
     "twitter": "@swift_leeds"
+  },
+  {
+    "name": "MobileTech Conference",
+    "url": "https://mobiletechcon.de/de",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "online": true,
+    "twitter": "@mobiletechcon"
   },
   {
     "name": "Do iOS",
@@ -107,8 +120,18 @@
     "endDate": "2020-11-10",
     "city": "Moscow",
     "country": "Russia",
-    "twitter": "@MobiusConf",
     "cfpUrl": "https://mobius-moscow.ru/en/cfp",
-    "cfpEndDate": "2020-08-31"
+    "cfpEndDate": "2020-08-31",
+    "twitter": "@MobiusConf"
+  },
+  {
+    "name": "heise MacDev",
+    "url": "https://www.heise-macdev.de",
+    "startDate": "2020-12-02",
+    "endDate": "2020-12-02",
+    "online": true,
+    "twitter": "@heiseMacDev",
+    "cocUrl": "https://www.heise-macdev.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
   }
 ]

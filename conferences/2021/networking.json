@@ -1,2 +1,197 @@
 [
+  {
+    "name": "FOSS Backstage",
+    "url": "https://foss-backstage.de",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-12",
+    "online": true,
+    "cfpUrl": "https://foss-backstage.de/call-participation",
+    "cfpEndDate": "2020-10-25",
+    "twitter": "@Fossbckstg",
+    "cocUrl": "https://foss-backstage.de/code-conduct"
+  },
+  {
+    "name": "Cloud Transformation Champions",
+    "url": "https://hctc-eu.coriniumintelligence.com/",
+    "startDate": "2021-03-02",
+    "endDate": "2021-03-03",
+    "online": true,
+    "twitter": "@CoriniumGlobal",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Data Science (WiDS) Worldwide",
+    "url": "https://www.widsconference.org/conference.html",
+    "startDate": "2021-03-08",
+    "endDate": "2021-03-08",
+    "online": true,
+    "twitter": "@WiDS_Worldwide",
+    "cocUrl": "https://www.widsconference.org/codeofconduct.html",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Future Developer Summit",
+    "url": "https://www.futuredeveloper.io",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-10",
+    "online": true,
+    "twitter": "@SlashDataHQ",
+    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct"
+  },
+  {
+    "name": "Women Techmakers",
+    "url": "https://www.wtmmontreal.com",
+    "startDate": "2021-03-20",
+    "endDate": "2021-03-20",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/wtmmontreal2021",
+    "cfpEndDate": "2021-01-31",
+    "twitter": "@WTM_Montreal",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Tech Summit",
+    "url": "https://womenintechsummit.net/spring2021virtual",
+    "startDate": "2021-03-24",
+    "endDate": "2021-03-26",
+    "online": true,
+    "twitter": "@womentechsummit",
+    "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Johnson Women in Tech",
+    "url": "https://www.johnsonwomenintech.com",
+    "startDate": "2021-03-26",
+    "endDate": "2021-03-27",
+    "online": true,
+    "twitter": "@CornellMBA",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Her Future Summit",
+    "url": "http://herfuturesummit.org",
+    "startDate": "2021-03-31",
+    "endDate": "2021-03-31",
+    "online": true,
+    "cfpUrl": "https://www.eventbrite.com/e/her-future-summit-global-virtual-2021-tickets-135369992291",
+    "cfpEndDate": "2021-03-31",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "TECHSPO",
+    "url": "https://techsponyc.com",
+    "startDate": "2021-04-15",
+    "endDate": "2021-04-16",
+    "city": "New York, NY",
+    "country": "U.S.A."
+  },
+  {
+    "name": "IEEE Women in Engineering International Leadership Conference",
+    "url": "http://ieee-wie-ilc.org",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-30",
+    "online": true,
+    "twitter": "@wieilc",
+    "cocUrl": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Transforming Technology Conference",
+    "url": "https://www.womentransformingtechnology.com",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "JAX",
+    "url": "https://jax.de/mainz-en",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-07",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@jaxcon",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "TECHSPO",
+    "url": "https://techspotoronto.ca",
+    "startDate": "2021-05-20",
+    "endDate": "2021-05-21",
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
+    "name": "CloudTalk Online MatchMaking Summit",
+    "url": "https://cloudtalksummit.online",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "online": true,
+    "twitter": "@cloudtalkglb"
+  },
+  {
+    "name": "TECHSPO",
+    "url": "https://techspohouston.com",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "twitter": "@techspotweets"
+  },
+  {
+    "name": "Women in Technology Summit",
+    "url": "https://summit.witi.com",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-24",
+    "online": true,
+    "cfpUrl": "https://witi.com/conferences/speakers/application",
+    "twitter": "@witi",
+    "cocUrl": "https://witi.com/code-of-ethics/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "TECHSPO Sydney",
+    "url": "https://techsposydney.com",
+    "startDate": "2021-08-25",
+    "endDate": "2021-08-26",
+    "city": "Sydney",
+    "country": "Australia",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Tech Summit",
+    "url": "https://womenintechsummit.net/fall2021virtual",
+    "startDate": "2021-10-20",
+    "endDate": "2021-10-22",
+    "online": true,
+    "twitter": "@womentechsummit",
+    "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Tech Up For Women",
+    "url": "https://techupforwomen.com/event-details",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-16",
+    "online": true,
+    "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
+    "twitter": "@techupforwomen",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "International Conference on Digital Transformation",
+    "url": "http://conference.ternet.or.tz",
+    "startDate": "2021-09-12",
+    "endDate": "2021-09-17",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "twitter": "@Ternet10",
+    "cfpUrl": "https://conference.ternet.or.tz/submenu-content/7da5e50a-0fe9-469f-bff6-1880f645b932",
+    "cfpEndDate": "2021-03-31",
+    "online": true,
+    "offersSignLanguageOrCC": true
+  }
 ]

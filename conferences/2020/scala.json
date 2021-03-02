@@ -1,8 +1,18 @@
 [
   {
+    "name": "Scala Love Conf",
+    "url": "https://scala.love/conf",
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-18",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/scalalove",
+    "cfpEndDate": "2020-04-08",
+    "twitter": "@scala_love"
+  },
+  {
     "name": "ScalaDays",
     "url": "https://www.scaladays.org",
-    "startDate": "2020-06-30",
+    "startDate": "2020-07-01",
     "endDate": "2020-07-03",
     "city": "Berlin",
     "country": "Germany",

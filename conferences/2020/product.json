@@ -6,7 +6,7 @@
     "endDate": "2020-02-07",
     "city": "Manchester",
     "country": "U.K.",
-    "twitter": "@mindtheproduct"
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "#ProductCon",
@@ -31,7 +31,7 @@
     "url": "https://productcraft.com/conference/san-francisco",
     "startDate": "2020-02-25",
     "endDate": "2020-02-25",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@product_craft"
   },
@@ -53,30 +53,92 @@
     "twitter": "@_ProjectProduct"
   },
   {
-    "name": "Mind the Product - Online",
-    "url": "https://www.mindtheproduct.com/mtpcon/singapore",
-    "startDate": "2020-03-30",
-    "endDate": "2020-04-03",
-    "city": "Singapore",
-    "country": "Singapore",
-    "twitter": "@mindtheproduct‬"
-  },
-  {
-    "name": "Product Impact - Online",
-    "url": "https://theproductangle.com/product-impact-2020",
-    "startDate": "2020-04-01",
-    "endDate": "2020-04-01",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@theproductangle"
+    "name": "Beyond Tech Innovation and Product Development",
+    "url": "https://managementevents.com/events/2905/beyond-tech-innovation-and-product-development/2020/finland/",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "online": true
   },
   {
     "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/san-francisco",
+    "url": "https://www.productschool.com/productcon/seattle/",
+    "startDate": "2020-07-09",
+    "endDate": "2020-07-09",
+    "online": true,
+    "twitter": "@productschool"
+  },
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpcon/digital/",
+    "startDate": "2020-07-13",
+    "endDate": "2020-07-15",
+    "online": true,
+    "twitter": "@MindtheProduct"
+  },
+  {
+    "name": "ProductCamp",
+    "url": "https://productcamp.pl",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-04",
+    "online": true,
+    "twitter": "@ProductCampPl"
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/new-york/",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-10",
+    "online": true,
+    "twitter": "@productschool"
+  },
+  {
+    "name": "Pendomonium",
+    "url": "https://www.pendo.io/pendomonium",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-17",
+    "online": true,
+    "twitter": "@pendoio"
+  },
+  {
+    "name": "Industry",
+    "url": "https://www.industryconference.com/virtual",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-23",
+    "online": true
+  },
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpcon/london/",
     "startDate": "2020-10-01",
-    "endDate": "2020-10-01",
-    "city": "San Francisco",
-    "country": "U.S.A.",
+    "endDate": "2020-10-02",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@MindtheProduct"
+  },
+  {
+    "name": "UXDX",
+    "url": "https://uxdxconf.com",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-09",
+    "online": true,
+    "twitter": "@uxdxconf"
+  },
+  {
+    "name": "Turing Fest",
+    "url": "https://www.turingfest.com",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-16",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "cfpUrl": "https://www.turingfest.com/2020/call-for-speakers",
+    "twitter": "@turingfest"
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/los-angeles/",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-05",
+    "online": true,
     "twitter": "@productschool"
   },
   {
@@ -90,109 +152,10 @@
   {
     "name": "La Product Conf",
     "url": "https://laproductconf.com/lpc-2020/",
-    "startDate": "2020-06-04",
-    "endDate": "2020-06-04",
+    "startDate": "2020-12-01",
+    "endDate": "2020-12-01",
     "city": "Paris",
     "country": "France",
     "twitter": "@LaProductConf"
-  },
-  {
-    "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpengage/hamburg/",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-26",
-    "city": "Hamburg",
-    "country": "Germany",
-    "twitter": "@mindtheproduct‬"
-  },
-  {
-    "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/seattle/",
-    "startDate": "2020-06-30",
-    "endDate": "2020-06-30",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@productschool"
-  },
-  {
-    "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpcon/san-francisco/",
-    "startDate": "2020-07-13",
-    "endDate": "2020-07-14",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@mindtheproduct‬"
-  },
-  {
-    "name": "Turing Fest",
-    "url": "https://www.turingfest.com",
-    "startDate": "2020-08-04",
-    "endDate": "2020-08-05",
-    "city": "Edinburgh",
-    "country": "U.K.",
-    "twitter": "@turingfest",
-    "cfpUrl": "https://www.turingfest.com/2020/call-for-speakers"
-  },
-  {
-    "name": "ProductCamp",
-    "url": "https://productcamp.pl",
-    "startDate": "2020-09-02",
-    "endDate": "2020-09-04",
-    "city": "Gdynia",
-    "country": "Poland",
-    "twitter": "@ProductCampPl"
-  },
-  {
-    "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/new-york/",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-08",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@productschool"
-  },
-  {
-    "name": "Industry",
-    "url": "https://global.industryconference.com",
-    "startDate": "2020-09-21",
-    "endDate": "2020-09-23",
-    "city": "Cleveland, OH",
-    "country": "U.S.A."
-  },
-  {
-    "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpcon/london/",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-02",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@mindtheproduct‬"
-  },
-  {
-    "name": "UXDX",
-    "url": "https://uxdxconf.com",
-    "startDate": "2020-10-08",
-    "endDate": "2020-10-09",
-    "city": "Dublin",
-    "country": "Ireland",
-    "twitter": "@uxdxconf"
-  },
-  {
-    "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/los-angeles/",
-    "startDate": "2020-11-03",
-    "endDate": "2020-11-03",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "twitter": "@productschool"
-  },
-  {
-    "name": "Pendomonium",
-    "url": "https://web.cvent.com/event/281e421e-2af7-4b9a-af7f-e6af2834d4ea/summary",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-09",
-    "city": "Raleigh",
-    "country": "U.S.A.",
-    "twitter": "@pendoio"
   }
 ]

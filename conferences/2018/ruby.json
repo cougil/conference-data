@@ -51,7 +51,7 @@
     "url": "http://wrocloverb.com",
     "startDate": "2018-03-16",
     "endDate": "2018-03-18",
-    "city": "Wrocław",
+    "city": "Wroclaw",
     "country": "Poland",
     "twitter": "@wrocloverb"
   },
@@ -78,7 +78,7 @@
     "url": "https://railsconf.com",
     "startDate": "2018-04-17",
     "endDate": "2018-04-19",
-    "city": "Pittsburgh",
+    "city": "Pittsburgh, PA",
     "country": "U.S.A.",
     "twitter": "@railsconf"
   },
@@ -96,7 +96,7 @@
     "url": "http://rubyhack.com",
     "startDate": "2018-05-03",
     "endDate": "2018-05-04",
-    "city": "Salt Lake City",
+    "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "twitter": "@utrubyhack"
   },
@@ -153,7 +153,7 @@
     "url": "http://rubyc.eu",
     "startDate": "2018-06-02",
     "endDate": "2018-06-03",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine",
     "cfpUrl": "https://rubyc.eu/speakers/new",
     "twitter": "@rubyc_eu"
@@ -207,7 +207,7 @@
     "url": "https://southeastruby.com",
     "startDate": "2018-08-02",
     "endDate": "2018-08-03",
-    "city": "Nashville",
+    "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@southeastruby"
   },
@@ -218,20 +218,20 @@
     "endDate": "2018-08-04",
     "city": "Pune",
     "country": "India",
-    "twitter": "@deccanrubyconf",
     "cfpUrl": "https://www.papercall.io/drc18",
-    "cfpEndDate": "2018-07-01"
+    "cfpEndDate": "2018-07-01",
+    "twitter": "@deccanrubyconf"
   },
   {
     "name": "GrillRB",
     "url": "http://grillrb.com",
     "startDate": "2018-08-11",
     "endDate": "2018-08-12",
-    "city": "Wrocław",
+    "city": "Wroclaw",
     "country": "Poland",
-    "twitter": "@grill_rb",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZimHrS_CTL-lMJv44JYSp6df7_YtnggLqlA54ZLGGisKH2Q/viewform",
-    "cfpEndDate": "2018-07-01"
+    "cfpEndDate": "2018-07-01",
+    "twitter": "@grill_rb"
   },
   {
     "name": "EuRuKo",
@@ -241,6 +241,25 @@
     "city": "Vienna",
     "country": "Austria",
     "twitter": "@euruko"
+  },
+  {
+    "name": "RubyRussia",
+    "url": "https://rubyrussia.club/en",
+    "startDate": "2018-10-06",
+    "endDate": "2018-10-06",
+    "city": "Moscow",
+    "country": "Russia",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfHVl62PcA5wiq4GVMG9xSgdu3h3R99xOH0UBuatjDg1ivv2w/viewform",
+    "cfpEndDate": "2018-09-15",
+    "twitter": "@railsclub_ru"
+  },
+  {
+    "name": "Ruby Summit China",
+    "url": "http://rubysummit.cn",
+    "startDate": "2018-10-13",
+    "endDate": "2018-10-14",
+    "city": "Zhengzhou",
+    "country": "China"
   },
   {
     "name": "RubyConf MY",
@@ -253,33 +272,14 @@
     "cfpEndDate": "2018-07-15"
   },
   {
-    "name": "RubyRussia",
-    "url": "https://rubyrussia.club/en",
-    "startDate": "2018-10-06",
-    "endDate": "2018-10-06",
-    "city": "Moscow",
-    "country": "Russia",
-    "twitter": "@railsclub_ru",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfHVl62PcA5wiq4GVMG9xSgdu3h3R99xOH0UBuatjDg1ivv2w/viewform",
-    "cfpEndDate": "2018-09-15"
-  },
-  {
     "name": "Keep Ruby Weird",
     "url": "https://2018.keeprubyweird.com",
     "startDate": "2018-11-09",
     "endDate": "2018-11-09",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@keeprubyweird",
     "cfpUrl": "https://www.papercall.io/krw-2018",
-    "cfpEndDate": "2018-08-27"
-  },
-  {
-    "name": "Ruby Summit China",
-    "url": "http://rubysummit.cn",
-    "startDate": "2018-10-13",
-    "endDate": "2018-10-14",
-    "city": "ZhengZhou, Henan",
-    "country": "China"
+    "cfpEndDate": "2018-08-27",
+    "twitter": "@keeprubyweird"
   }
 ]

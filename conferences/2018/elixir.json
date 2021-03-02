@@ -13,7 +13,7 @@
     "url": "http://empex.co/nyc.html",
     "startDate": "2018-05-19",
     "endDate": "2018-05-19",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@empexco"
   },
@@ -22,7 +22,7 @@
     "url": "http://goruco.com",
     "startDate": "2018-06-16",
     "endDate": "2018-06-16",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "cfpUrl": "https://cfp.goruco.com/events/goruco2018",
     "cfpEndDate": "2018-04-15",
@@ -41,7 +41,7 @@
     "url": "https://elixirconf.com",
     "startDate": "2018-09-04",
     "endDate": "2018-09-07",
-    "city": "Bellevue",
+    "city": "Bellevue, WA",
     "country": "U.S.A.",
     "twitter": "@ElixirConf"
   },
@@ -55,17 +55,6 @@
     "twitter": "@GigCityElixir"
   },
   {
-    "name": "The Big Elixir",
-    "url": "https://www.thebigelixir.com",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-09",
-    "city": "New Orleans",
-    "country": "U.S.A.",
-    "twitter": "@thebigelixir",
-    "cfpUrl": "https://www.papercall.io/the-big-elixir-2018",
-    "cfpEndDate": "2018-07-02"
-  },
-  {
     "name": "Code Mesh LDN",
     "url": "https://codesync.global/conferences/code-mesh-2018",
     "startDate": "2018-11-08",
@@ -73,6 +62,17 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@CodeMeshIO"
+  },
+  {
+    "name": "The Big Elixir",
+    "url": "https://www.thebigelixir.com",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "New Orleans, LA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/the-big-elixir-2018",
+    "cfpEndDate": "2018-07-02",
+    "twitter": "@thebigelixir"
   },
   {
     "name": "Code BEAM Lite Munich",

@@ -6,9 +6,19 @@
     "endDate": "2020-07-11",
     "city": "Minsk",
     "country": "Belarus",
-    "twitter": "@GoWayFest",
     "cfpUrl": "https://www.papercall.io/gowayfest4",
-    "cfpEndDate": "2020-04-30"
+    "cfpEndDate": "2020-04-30",
+    "twitter": "@GoWayFest"
+  },
+  {
+    "name": "GopherCon Turkey",
+    "url": "https://gophercon.ist/en",
+    "startDate": "2020-07-25",
+    "endDate": "2020-07-25",
+    "online": true,
+    "cfpUrl": "https://kommunity.com/goturkiye/events/gophercon-turkey-59b694b8/cfp",
+    "cfpEndDate": "2020-06-22",
+    "twitter": "@GoTurkiye"
   },
   {
     "name": "GopherCon Europe",
@@ -18,5 +28,15 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@gopherconEU"
+  },
+  {
+    "name": "All Systems Go!",
+    "url": "https://allsystemsgo.space",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-03",
+    "online": true,
+    "twitter": "@AllSystemsGoCon",
+    "cocUrl": "https://discuss.dgraph.io/t/code-of-conduct-all-systems-go-conference/11220",
+    "offersSignLanguageOrCC": false
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://locomocosec.com",
     "startDate": "2018-04-03",
     "endDate": "2018-04-06",
-    "city": "Kailua-Kona, Hawaiʻi",
+    "city": "Lahaina, HI",
     "country": "U.S.A.",
     "twitter": "@locomocosec"
   },
@@ -31,7 +31,7 @@
     "url": "http://www.bsidesdc.org",
     "startDate": "2018-10-26",
     "endDate": "2018-10-28",
-    "city": "Washington, DC",
+    "city": "Washington, D.C.",
     "country": "U.S.A.",
     "twitter": "@BSidesDC"
   },
@@ -51,7 +51,6 @@
     "endDate": "2018-11-20",
     "city": "Stockholm",
     "country": "Sweden",
-    "twitter": "",
     "cfpUrl": "https://passwordscon.org/cfp/",
     "cfpEndDate": "2018-08-30"
   },
@@ -60,11 +59,11 @@
     "url": "https://www.bsideslisbon.org",
     "startDate": "2018-11-29",
     "endDate": "2018-11-30",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal",
-    "twitter": "@Bsideslisbon",
     "cfpUrl": "https://www.bsideslisbon.org/call-for-papers/",
-    "cfpEndDate": "2018-08-31"
+    "cfpEndDate": "2018-08-31",
+    "twitter": "@Bsideslisbon"
   },
   {
     "name": "10th International Conference on Wireless & Mobile Networks (WiMoNe-)",
@@ -72,8 +71,6 @@
     "startDate": "2018-12-22",
     "endDate": "2018-12-23",
     "city": "Dubai",
-    "country": "U.A.E.",
-    "cfpUrl": "https://netcom2018.org/wimone/index.html",
-    "cfpEndDate": "2018-10-28"
+    "country": "United Arab Emirates"
   }
 ]

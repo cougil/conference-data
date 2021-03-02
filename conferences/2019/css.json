@@ -4,7 +4,7 @@
     "url": "https://sourceup.co.za",
     "startDate": "2019-03-11",
     "endDate": "2019-03-12",
-    "city": "Cape Town ",
+    "city": "Cape Town",
     "country": "South Africa",
     "twitter": "@letspixelup"
   },
@@ -38,6 +38,7 @@
     "name": "CSSConf EU",
     "url": "https://2019.cssconf.eu",
     "startDate": "2019-05-31",
+    "endDate": "2019-05-31",
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@cssconfeu"
@@ -45,10 +46,10 @@
   {
     "name": "Pixel Pioneers",
     "url": "https://pixelpioneers.co/events/bristol-2019",
-    "city": "Bristol",
-    "country": "U.K.",
     "startDate": "2019-06-07",
     "endDate": "2019-06-07",
+    "city": "Bristol",
+    "country": "U.K.",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
   },
   {
@@ -91,10 +92,9 @@
     "name": "dotCSS",
     "url": "https://2019.dotcss.io",
     "startDate": "2019-12-04",
+    "endDate": "2019-12-04",
     "city": "Paris",
     "country": "France",
-    "twitter": "@dotCSS",
-    "affiliateText": "10% off with promocode: CONFSTECH",
-    "affiliateUrl": "https://2019.dotcss.io/tickets?promocode=CONFSTECH"
+    "twitter": "@dotCSS"
   }
 ]

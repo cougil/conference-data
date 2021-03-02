@@ -1,5 +1,39 @@
 [
   {
+    "name": "cssday Digital Edition",
+    "url": "https://2021.cssday.it",
+    "startDate": "2021-03-11",
+    "endDate": "2021-03-11",
+    "online": true,
+    "cfpUrl": "https://2021.cssday.it/welcome/cfp.html",
+    "cfpEndDate": "2021-01-31",
+    "twitter": "@cssday_it",
+    "cocUrl": "https://2021.cssday.it/welcome/coc.html",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "city": "Munich",
+    "country": "Germany",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "hover",
+    "url": "https://www.webdirections.org/hover",
+    "startDate": "2021-04-16",
+    "endDate": "2021-04-23",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/hover/#speak",
+    "cfpEndDate": "2021-01-31",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "CSS Day",
     "url": "https://cssday.nl",
     "startDate": "2021-06-10",

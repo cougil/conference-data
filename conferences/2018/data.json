@@ -40,7 +40,7 @@
     "url": "http://openastronomy.org/pyastro/2018",
     "startDate": "2018-04-30",
     "endDate": "2018-05-04",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A."
   },
   {
@@ -48,7 +48,7 @@
     "url": "https://www.tieinflect.org",
     "startDate": "2018-05-04",
     "endDate": "2018-05-04",
-    "city": "Santa Clara ",
+    "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "twitter": "@TiEInflect"
   },
@@ -57,7 +57,7 @@
     "url": "http://unconf17.ropensci.org",
     "startDate": "2018-05-25",
     "endDate": "2018-05-26",
-    "city": "Los Angeles",
+    "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "twitter": "@ropensci"
   },
@@ -65,9 +65,10 @@
     "name": "dotAI",
     "url": "https://www.dotai.io",
     "startDate": "2018-05-31",
+    "endDate": "2018-05-31",
     "city": "Paris",
     "country": "France",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform",
     "cfpEndDate": "2018-04-01"
   },
   {
@@ -86,19 +87,19 @@
     "endDate": "2018-07-08",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@PyData",
     "cfpUrl": "https://pydata.org/berlin2018/cfp",
-    "cfpEndDate": "2018-05-31"
+    "cfpEndDate": "2018-05-31",
+    "twitter": "@PyData"
   },
   {
     "name": "JuPyter Con",
     "url": "https://conferences.oreilly.com/jupyter/jup-ny",
     "startDate": "2018-07-22",
     "endDate": "2018-07-24",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
-    "cfpEndDate": "2018-03-06",
     "cfpUrl": "https://conferences.oreilly.com/jupyter/jup-ny/public/cfp/621",
+    "cfpEndDate": "2018-03-06",
     "twitter": "@JupyterCon"
   },
   {
@@ -115,7 +116,7 @@
     "url": "https://www.voicesummit.ai",
     "startDate": "2018-07-24",
     "endDate": "2018-07-26",
-    "city": "Newark",
+    "city": "Newark, CA",
     "country": "U.S.A.",
     "twitter": "@VoiceSummitAI"
   },
@@ -126,8 +127,26 @@
     "endDate": "2018-08-11",
     "city": "London",
     "country": "U.K.",
-    "cfpEndDate": "2018-04-30",
-    "cfpUrl": "http://juliacon.org/2018/cfp"
+    "cfpUrl": "http://juliacon.org/2018/cfp",
+    "cfpEndDate": "2018-04-30"
+  },
+  {
+    "name": "Conference on Machine Learning, Optimization and Data science",
+    "url": "https://lod2018.icas.xyz/",
+    "startDate": "2018-09-13",
+    "endDate": "2018-09-16",
+    "city": "Volterra",
+    "country": "Italy",
+    "cfpUrl": "https://lod2018.icas.xyz/call-for-papers/",
+    "cfpEndDate": "2018-03-31"
+  },
+  {
+    "name": "Insurance Analytics Canada Summit",
+    "url": "http://events.insurancenexus.com/canada",
+    "startDate": "2018-09-25",
+    "endDate": "2018-09-26",
+    "city": "Toronto",
+    "country": "Canada"
   },
   {
     "name": "data2day",
@@ -148,63 +167,8 @@
     "twitter": "@EventsEmerging"
   },
   {
-    "name": "Web Directions AI",
-    "url": "http://webdirections.org/ai",
-    "startDate": "2018-10-31",
-    "cfpEndDate": "2018-05-01",
-    "cfpUrl": "https://www.webdirections.org/speaking",
-    "city": "Sydney",
-    "country": "Australia"
-  },
-  {
-    "name": "Big Data LDN",
-    "url": "https://bigdataldn.com",
-    "startDate": "2018-11-13",
-    "endDate": "2018-11-14",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@bigdata_ldn"
-  },
-  {
-    "name": "AI World Conference & Expo",
-    "url": "https://aiworld.com",
-    "startDate": "2018-12-03",
-    "endDate": "2018-12-05",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "cfpEndDate": "2018-05-31",
-    "cfpUrl": "https://aiworld.com/call-for-speakers"
-  },
-  {
-    "name": "Chief Data Officer Summit",
-    "url": "https://theinnovationenterprise.com/summits/chief-data-officer-summit-new-york-2018",
-    "startDate": "2018-12-06",
-    "endDate": "2018-12-07",
-    "city": "New York",
-    "country": "U.S.A."
-  },
-  {
-    "name": "DataSciCon",
-    "url": "http://datascicon.tech",
-    "startDate": "2018-11-28",
-    "endDate": "2018-11-30",
-    "city": "Atlanta",
-    "country": "U.S.A.",
-    "twitter": "@datascicon",
-    "cfpUrl": "http://datascicon.tech/cfp.html",
-    "cfpEndDate": "2018-10-01"
-  },
-  {
-    "name": "Insurance Analytics Canada Summit",
-    "url": "http://events.insurancenexus.com/canada/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4954",
-    "startDate": "2018-09-25",
-    "endDate": "2018-09-26",
-    "city": "Toronto",
-    "country": "Canada"
-  },
-  {
     "name": "Insurance AI and Analytics Europe",
-    "url": "http://events.insurancenexus.com/insuranceanalyticseu/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4952",
+    "url": "http://events.insurancenexus.com/insuranceanalyticseu",
     "startDate": "2018-10-09",
     "endDate": "2018-10-10",
     "city": "London",
@@ -220,6 +184,46 @@
     "twitter": "@rakuten_tech"
   },
   {
+    "name": "Web Directions AI",
+    "url": "http://webdirections.org/ai",
+    "startDate": "2018-10-31",
+    "endDate": "2018-10-31",
+    "city": "Sydney",
+    "country": "Australia",
+    "cfpUrl": "https://www.webdirections.org/speaking",
+    "cfpEndDate": "2018-05-01"
+  },
+  {
+    "name": "Big Data LDN",
+    "url": "https://bigdataldn.com",
+    "startDate": "2018-11-13",
+    "endDate": "2018-11-14",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@bigdata_ldn"
+  },
+  {
+    "name": "DataSciCon",
+    "url": "http://datascicon.tech",
+    "startDate": "2018-11-28",
+    "endDate": "2018-11-30",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "cfpUrl": "http://datascicon.tech/cfp.html",
+    "cfpEndDate": "2018-10-01",
+    "twitter": "@datascicon"
+  },
+  {
+    "name": "AI World Conference & Expo",
+    "url": "https://aiworld.com",
+    "startDate": "2018-12-03",
+    "endDate": "2018-12-05",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://aiworld.com/call-for-speakers",
+    "cfpEndDate": "2018-05-31"
+  },
+  {
     "name": "WeAreDevelopers AI Congress",
     "url": "https://www.wearedevelopers.com/ai-congress",
     "startDate": "2018-12-04",
@@ -229,13 +233,11 @@
     "twitter": "@WeAreDevs"
   },
   {
-    "name": "Conference on Machine Learning, Optimization and Data science",
-    "url": "https://lod2018.icas.xyz/",
-    "startDate": "2018-09-13",
-    "endDate": "2018-09-16",
-    "city": "Volterra",
-    "country": "Italy",
-    "cfpUrl": "https://lod2018.icas.xyz/call-for-papers/",
-    "cfpEndDate": "2018-03-31"
+    "name": "Chief Data Officer Summit",
+    "url": "https://theinnovationenterprise.com/summits/chief-data-officer-summit-new-york-2018",
+    "startDate": "2018-12-06",
+    "endDate": "2018-12-07",
+    "city": "New York, NY",
+    "country": "U.S.A."
   }
 ]

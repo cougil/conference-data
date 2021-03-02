@@ -18,31 +18,22 @@
     "twitter": "@dotpy_io"
   },
   {
-    "name": "Python Summit",
-    "url": "https://python-summit.de",
-    "startDate": "2020-04-22",
-    "endDate": "2020-04-24",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@python_summit"
+    "name": "Python Pizza",
+    "url": "https://remote.python.pizza",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
+    "cfpEndDate": "2020-04-06",
+    "twitter": "@pythonpizzaconf"
   },
   {
-    "name": "Python fwdays'20",
+    "name": "Python fwdays",
     "url": "https://fwdays.com/en/event/python-fwdays-conference",
     "startDate": "2020-05-16",
     "endDate": "2020-05-16",
-    "city": "Kyiv",
-    "country": "Ukraine",
+    "online": true,
     "twitter": "@fwdays"
-  },
-  {
-    "name": "enterPy",
-    "url": "http://www.enterpy.de",
-    "startDate": "2020-05-25",
-    "endDate": "2020-05-26",
-    "city": "Mannheim",
-    "country": "Germany",
-    "twitter": "@enterpyconf"
   },
   {
     "name": "PyData Amsterdam",
@@ -53,6 +44,45 @@
     "country": "Netherlands",
     "cfpUrl": "https://amsterdam.pydata.org/pages/cfp",
     "cfpEndDate": "2020-03-29"
+  },
+  {
+    "name": "EuroPython",
+    "url": "https://ep2020.europython.eu",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-26",
+    "online": true,
+    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
+    "cfpEndDate": "2020-04-12",
+    "twitter": "@europython"
+  },
+  {
+    "name": "PyCon Lithuania",
+    "url": "https://pycon.lt",
+    "startDate": "2020-07-31",
+    "endDate": "2020-08-01",
+    "online": true,
+    "cfpUrl": "https://pretalx.com/pyconlt2020/cfp",
+    "cfpEndDate": "2020-07-10",
+    "twitter": "@pyconlt"
+  },
+  {
+    "name": "PyBay",
+    "url": "https://pybay.com",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-16",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/pybay2020-online-edition",
+    "twitter": "@py_pay"
+  },
+  {
+    "name": "PyConline AU",
+    "url": "https://2020.pycon.org.au",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-06",
+    "online": true,
+    "cfpUrl": "https://2020.pycon.org.au/speak",
+    "cfpEndDate": "2020-07-12",
+    "twitter": "@pyconau"
   },
   {
     "name": "PyCon SK",
@@ -76,18 +106,45 @@
     "url": "https://tr.pycon.org",
     "startDate": "2020-09-26",
     "endDate": "2020-09-27",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
     "twitter": "@pycontr"
+  },
+  {
+    "name": "Ray Summit",
+    "url": "https://events.linuxfoundation.org/ray-summit",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "online": true,
+    "twitter": "@raydistributed"
+  },
+  {
+    "name": "PyCon India",
+    "url": "https://in.pycon.org/2020",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "online": true,
+    "cfpUrl": "https://in.pycon.org/cfp/2020/proposals",
+    "cfpEndDate": "2020-08-14",
+    "twitter": "@pyconindia"
   },
   {
     "name": "PyConDE & PyData Berlin",
     "url": "https://de.pycon.org",
     "startDate": "2020-10-14",
     "endDate": "2020-10-16",
-    "city": "Berlin ",
+    "city": "Berlin",
     "country": "Germany",
     "twitter": "@PyConDE"
+  },
+  {
+    "name": "Python Summit",
+    "url": "https://python-summit.de",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@python_summit"
   },
   {
     "name": "PyCon Italy",
@@ -97,5 +154,55 @@
     "city": "Florence",
     "country": "Italy",
     "twitter": "@pyconit"
+  },
+  {
+    "name": "PyCon Sweden",
+    "url": "https://www.pycon.se",
+    "startDate": "2020-11-12",
+    "endDate": "2020-11-13",
+    "online": true,
+    "cfpUrl": "https://forms.gle/kzydUY5miiLjXwmH6",
+    "cfpEndDate": "2020-09-30",
+    "twitter": "@pyconse"
+  },
+  {
+    "name": "PyFest",
+    "url": "https://pyfest.ru",
+    "startDate": "2020-11-13",
+    "endDate": "2020-11-14",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "cfpUrl": "https://hardfest.ru/en#rec216142907",
+    "cfpEndDate": "2020-10-12"
+  },
+  {
+    "name": "Python WEB Global Summit",
+    "url": "https://python.geekle.us",
+    "startDate": "2020-11-19",
+    "endDate": "2020-11-20",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSecbfc_qddR3mFeIcV4JhC5GJIpXEMO3fIqqM4WMe7ch0bp-A/viewform",
+    "cfpEndDate": "2020-11-05"
+  },
+  {
+    "name": "enterPy",
+    "url": "http://www.enterpy.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-24",
+    "city": "Mannheim",
+    "country": "Germany",
+    "twitter": "@enterpyconf"
+  },
+  {
+    "name": "PyConf Hyderabad",
+    "url": "https://pyconf.hydpy.org/2020",
+    "startDate": "2020-12-05",
+    "endDate": "2020-12-06",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/pyconf-hyd-2020",
+    "cfpEndDate": "2020-11-08",
+    "twitter": "@pyconfhyd",
+    "cocUrl": "https://pyconf.hydpy.org/2020/coc.html",
+    "offersSignLanguageOrCC": false
   }
 ]

@@ -1,22 +1,492 @@
 [
   {
-    "name": "ReactiveConf",
-    "url": "https://reactiveconf.com",
-    "startDate": "2020-03-08",
-    "endDate": "2020-03-09",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "twitter": "@ReactiveConf"
+    "name": "International Conference on Computational Mathematics and Applied Physics",
+    "url": "http://www.iccmap.iisrc.org",
+    "startDate": "2021-01-04",
+    "endDate": "2021-01-05",
+    "city": "Tokyo",
+    "country": "Japan",
+    "cfpUrl": "http://www.iccmap.iisrc.org/call-for-papers/",
+    "cfpEndDate": "2020-10-30"
+  },
+  {
+    "name": "SheSharp Community Day",
+    "url": "https://communityday.shesharp.co/",
+    "startDate": "2021-01-22",
+    "endDate": "2021-01-22",
+    "online": true,
+    "cocUrl": "https://communityday.shesharp.co/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Diversity CfP Day",
+    "url": "https://www.globaldiversitycfpday.com/",
+    "startDate": "2021-01-23",
+    "endDate": "2021-01-23",
+    "online": true,
+    "cocUrl": "https://www.globaldiversitycfpday.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Univention Summit",
+    "url": "https://www.univention-summit.com",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-28",
+    "city": "Bremen",
+    "country": "Germany",
+    "twitter": "@univention",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "AccessibilityCon",
+    "url": "https://accessibilitycon.devcongalaxy.io/",
+    "startDate": "2021-02-03",
+    "endDate": "2021-02-03",
+    "online": true,
+    "cocUrl": "https://accessibilitycon.devcongalaxy.io/event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "FOSDEM",
+    "url": "https://fosdem.org/2021/",
+    "startDate": "2021-02-06",
+    "endDate": "2021-02-07",
+    "online": true,
+    "cocUrl": "https://fosdem.org/2021/practical/conduct/"
+  },
+  {
+    "name": "Frontend Love",
+    "url": "https://www.frontenddeveloperlove.com",
+    "startDate": "2021-02-08",
+    "endDate": "2021-02-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "cfpUrl": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://www.frontenddeveloperlove.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "InfoQ Live",
+    "url": "https://live.infoq.com",
+    "startDate": "2021-02-16",
+    "endDate": "2021-02-16",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2020-12-31",
+    "twitter": "@InfoQ",
+    "cocUrl": "https://live.infoq.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CloudWorld",
+    "url": "https://cloudworldconf.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "online": true,
+    "cfpUrl": "https://cloudworldconf.com/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "online": true,
+    "cfpUrl": "https://www.developerweek.com/conference/call-for-speakers",
+    "cfpEndDate": "2020-10-30",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Conf42: Chaos Engineering",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-02-25",
+    "endDate": "2021-02-25",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2021",
+    "cfpEndDate": "2021-01-11",
+    "twitter": "@conf42com"
+  },
+  {
+    "name": "Afro Future Summit",
+    "url": "http://afrofuturesummit.com",
+    "startDate": "2021-02-26",
+    "endDate": "2021-02-26",
+    "online": true,
+    "cfpUrl": "https://www.eventbrite.com/e/afro-future-summit-2021-tickets-135509678095",
+    "cfpEndDate": "2021-02-26",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "SINFO",
+    "url": "https://sinfo.org",
+    "startDate": "2021-03-01",
+    "endDate": "2021-03-05",
+    "online": true,
+    "twitter": "@sinfoist",
+    "cocUrl": "https://sinfo.org/coc.html"
+  },
+  {
+    "name": "DE{CODE}: The Virtual Developer Conference",
+    "url": "https://attend.wpengine.com/decode-2021",
+    "startDate": "2021-03-04",
+    "endDate": "2021-03-04",
+    "online": true,
+    "twitter": "@WPEngine",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "FTW Conf",
+    "url": "https://www.ftwconf.com/",
+    "startDate": "2021-03-08",
+    "endDate": "2021-03-08",
+    "online": true,
+    "cocUrl": "https://www.ftwconf.com/code-of-conduct/"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-12",
+    "online": true,
+    "twitter": "@SoftwArchSummit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "betterCode API",
+    "url": "https://api.bettercode.eu",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-23",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "Codemotion Tech Conference - Italian Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-25",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf-italian-2021-cfp",
+    "cfpEndDate": "2021-01-29",
+    "twitter": "@CodemotionIT",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io/thehague",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-15",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2020-11-02",
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "betterCode API",
+    "url": "https://api.bettercode.eu",
+    "startDate": "2021-04-22",
+    "endDate": "2021-04-22",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "DeveloperWeek Europe",
+    "url": "https://www.developerweek.com/europe",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "online": true,
+    "cfpUrl": "https://www.developerweek.com/europe/speakers/apply-to-speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
+    "name": "GIDS Live",
+    "url": "https://www.developersummit.com/live/2021",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-30",
+    "online": true,
+    "cfpUrl": "https://www.developersummit.com/live/2021/cfp",
+    "cfpEndDate": "2021-02-26",
+    "twitter": "@developersummit",
+    "cocUrl": "https://wurreka.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Conf42: Cloud Native",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-04-29",
+    "endDate": "2021-04-29",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
+    "cfpEndDate": "2021-03-15",
+    "twitter": "@conf42com"
+  },
+  {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2021-05-10",
+    "endDate": "2021-05-28",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@QCon",
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DeveloperWeek Management",
+    "url": "https://www.developerweek.com/global/conference/management",
+    "startDate": "2021-05-11",
+    "endDate": "2021-05-12",
+    "online": true,
+    "cfpUrl": "https://www.developerweek.com/global/conference/management/speakers",
+    "cfpEndDate": "2021-03-12",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
+    "name": "Percona Live ONLINE",
+    "url": "https://www.percona.com/live/conferences",
+    "startDate": "2021-05-12",
+    "endDate": "2021-05-13",
+    "online": true,
+    "cfpUrl": "https://cfp.percona.com",
+    "cfpEndDate": "2021-02-28",
+    "twitter": "@percona",
+    "cocUrl": "https://www.percona.com/live/code-conduct"
+  },
+  {
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-05-14",
+    "endDate": "2021-05-21",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Codemotion Online Tech Conference",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-20",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf-spring-2021-cfp",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@CodemotionWorld",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com/2021",
+    "startDate": "2021-06-06",
+    "endDate": "2021-06-09",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Tech Conference",
+    "url": "https://www.womentech.net/women-tech-conference",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
+    "city": "Bouville",
+    "country": "France",
+    "twitter": "@DevBreak20",
+    "cocUrl": "https://www.devbreak.io/code-of-conduct"
+  },
+  {
+    "name": "Swiss Testing Day",
+    "url": "https://www.swisstestingday.ch/en",
+    "startDate": "2021-06-30",
+    "endDate": "2021-06-30",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@SwissTesting",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://www.devoxx.fr",
+    "startDate": "2021-06-30",
+    "endDate": "2021-07-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
+  },
+  {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-24",
+    "city": "Melbourne",
+    "country": "Australia",
+    "cfpUrl": "https://vxmelb21.cfp.dev",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@VoxxedAustralia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2021.websummercamp.com/",
+    "startDate": "2021-08-25",
+    "endDate": "2021-08-27",
+    "city": "Bol",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp",
+    "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
+  },
+  {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-26",
+    "endDate": "2021-08-27",
+    "city": "Sydney",
+    "country": "Australia",
+    "cfpUrl": "https://vxsyd21.cfp.dev",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@VoxxedAustralia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+  },
+  {
+    "name": "fintech_devcon",
+    "url": "http://fintechdevcon.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctiBK6uZdblbumlikeE9cA0HFM1sioJM4RDClSX8YV_sPcFQ/viewform",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@fintechdevcon",
+    "cocUrl": "https://github.com/moov-io/moov-slack-code-of-conduct"
+  },
+  {
+    "name": "REFACTR.TECH",
+    "url": "https://refactr.tech",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@RefactrTech",
+    "cocUrl": "https://www.refactr.tech/code-of-conduct/"
+  },
+  {
+    "name": "AdaLoversConf",
+    "url": "https://adaloversconf.es",
+    "startDate": "2021-09-25",
+    "endDate": "2021-09-25",
+    "city": "Tenerife",
+    "country": "Spain",
+    "twitter": "@adalovedev"
+  },
+  {
+    "name": "Open Source Summit Europe",
+    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
+    "startDate": "2021-09-28",
+    "endDate": "2021-10-01",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/",
+    "cfpEndDate": "2021-06-13",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
   },
   {
     "name": "Strange Loop",
     "url": "https://thestrangeloop.com",
     "startDate": "2021-09-30",
     "endDate": "2021-10-02",
-    "city": "St. Louis",
+    "city": "St. Louis, MO",
     "country": "U.S.A.",
-    "twitter": "@strangeloop_stl",
     "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2021-04-30"
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@strangeloop_stl",
+    "cocUrl": "https://thestrangeloop.com/policies.html"
+  },
+  {
+    "name": "Pacific NW Software Quality Conference",
+    "url": "https://www.pnsqc.org",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@PNSQC",
+    "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "HackConf",
+    "url": "https://www.hackconf.bg",
+    "startDate": "2021-10-22",
+    "endDate": "2021-10-24",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "cfpUrl": "https://www.hackconf.bg/#cfs",
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@HackConf_",
+    "cocUrl": "https://drive.google.com/file/d/1YTce-qmjSxroN5vK9jthXZCWthlr0ul-/view"
+  },
+  {
+    "name": "ITNEXT Summit",
+    "url": "https://www.itnextsummit.com",
+    "startDate": "2021-10-27",
+    "endDate": "2021-10-27",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@itnext_io",
+    "cocUrl": "https://www.itnextsummit.com/wp-content/uploads/2019/01/code-of-conduct.pdf"
+  },
+  {
+    "name": "EuroSTAR Software Testing Conference",
+    "url": "https://conference.eurostarsoftwaretesting.com/",
+    "startDate": "2021-11-01",
+    "endDate": "2021-11-04",
+    "online": true,
+    "twitter": "@esconfs",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "QCon San Francisco",
+    "url": "https://qconsf.com",
+    "startDate": "2021-11-01",
+    "endDate": "2021-11-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2021-07-31",
+    "twitter": "@QConSF",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "IT-Tage Remote",
+    "url": "http://www.it-tage.org",
+    "startDate": "2021-12-06",
+    "endDate": "2021-12-09",
+    "online": true,
+    "twitter": "@InformatikAktue"
   }
 ]

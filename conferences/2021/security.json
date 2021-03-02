@@ -1,11 +1,134 @@
 [
   {
+    "name": "HackOn",
+    "url": "https://hackon.es",
+    "startDate": "2021-02-18",
+    "endDate": "2021-02-18",
+    "online": true,
+    "twitter": "@HackOnURJC",
+    "cocUrl": "https://hackon.es/pdf/CodConducta.pdf"
+  },
+  {
+    "name": "sec4dev",
+    "url": "https://sec4dev.io",
+    "startDate": "2021-02-22",
+    "endDate": "2021-02-25",
+    "online": true,
+    "cfpUrl": "https://sec4dev.io/call-for-proposals",
+    "cfpEndDate": "2020-12-20",
+    "twitter": "@sec4dev",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CPX 360",
+    "url": "https://virtual-cpx.checkpoint.com",
+    "startDate": "2021-02-23",
+    "endDate": "2021-02-24",
+    "online": true,
+    "twitter": "@CheckPointSW",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "B-Sides Tampa",
+    "url": "https://bsidestampa.net",
+    "startDate": "2021-02-27",
+    "endDate": "2021-02-27",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
+    "cfpEndDate": "2021-01-17",
+    "twitter": "@BSidesTampa",
+    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "QuBit Conference",
+    "url": "https://tatry.qubitconference.com",
+    "startDate": "2021-03-24",
+    "endDate": "2021-03-25",
+    "city": "Jasna",
+    "country": "Slovakia",
+    "twitter": "@QuBitCon",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CAW-Cyber awareness week",
+    "url": "https://www.caw.asia",
+    "startDate": "2021-04-01",
+    "endDate": "2021-04-07",
+    "online": true,
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Cloud Native Security Day",
+    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Qubit Conference New York",
+    "url": "https://nyc.qubitconference.com",
+    "startDate": "2021-05-05",
+    "endDate": "2021-05-06",
+    "online": true,
+    "cfpUrl": "https://nyc.qubitconference.com/call-speakers",
+    "cfpEndDate": "2021-03-10",
+    "twitter": "@QuBitCon"
+  },
+  {
     "name": "RuhrSec",
     "url": "https://www.ruhrsec.de/2020",
     "startDate": "2021-05-18",
     "endDate": "2021-05-21",
     "city": "Bochum",
     "country": "Germany",
-    "twitter": "@ruhrsec"
+    "twitter": "@ruhrsec",
+    "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
+  },
+  {
+    "name": "Women in CyberSecurity (WiCyS)",
+    "url": "https://www.wicys.org/events/wicys-2021",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-10",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.wicys.org/events/call-for-participation",
+    "cfpEndDate": "2021-03-01",
+    "twitter": "@WiCySorg",
+    "cocUrl": "https://membercommunity.wicys.org/page/Conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Qubit Conference",
+    "url": "https://prague.qubitconference.com",
+    "startDate": "2021-09-22",
+    "endDate": "2021-09-23",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "cfpEndDate": "2021-04-10",
+    "twitter": "@QuBitCon",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Linux Security Summit Europe",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-29",
+    "city": "Dublin",
+    "country": "Ireland",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
+    "cfpEndDate": "2021-06-27",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Virtual Security Operation Center Summit Budapest",
+    "url": "https://www.socsummit.eu",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-19",
+    "online": true
   }
 ]

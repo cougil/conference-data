@@ -9,94 +9,102 @@
     "twitter": "@stretchcon"
   },
   {
-    "name": "QCon London by InfoQ",
+    "name": "QCon",
     "url": "https://qconlondon.com",
     "startDate": "2020-03-02",
     "endDate": "2020-03-06",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@qconlondon",
-    "cfpUrl": "https://qconlondon.com/talk-submissions"
-  },
-  {
-    "name": "Leading Design",
-    "url": "https://leadingdesign.com/conferences/sanfran-2020",
-    "startDate": "2020-03-04",
-    "endDate": "2020-03-06",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@LDconf"
+    "twitter": "@QConLondon"
   },
   {
     "name": "MIT Technology Review Presents: EmTech Digital",
     "url": "https://events.technologyreview.com/emtech/digital",
     "startDate": "2020-03-23",
     "endDate": "2020-03-25",
-    "city": "San Francisco, CA ",
-    "country": "U.S.A.",
-    "twitter": "@techreview",
-    "cfpUrl": "https://events.technologyreview.com/emtech/digital"
-  },
-  {
-    "name": "The Lead Developer New York",
-    "url": "https://newyork2020.theleaddeveloper.com",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-08",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@TheLeadDev",
-    "cfpUrl": "https://newyork2020.theleaddeveloper.com",
-    "cfpEndDate": "2019-10-28"
-  },
-  {
-    "name": "Future Developer Summit",
-    "url": "http://www.futuredeveloper.io",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-08",
-    "city": "Menlo Park, CA ",
-    "country": "U.S.A.",
-    "twitter": "@SlashDataHQ"
+    "online": true,
+    "twitter": "@techreview"
   },
   {
     "name": "Running Remote Conference",
     "url": "http://www.runningremote.com",
     "startDate": "2020-04-20",
     "endDate": "2020-04-21",
-    "city": "Austin",
-    "country": "U.S.A.",
-    "twitter": "@runningremote",
-    "cfpUrl": "https://runningremote.com/conference-speakers",
-    "cfpEndDate": "2020-01-20"
+    "online": true,
+    "twitter": "@runningremote"
+  },
+  {
+    "name": "Beyond Tech CIO",
+    "url": "https://managementevents.com/events/3029/beyond-tech-cio/2020/austria",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "online": true
   },
   {
     "name": "Developer First",
     "url": "https://www.developer-first.com/conference",
     "startDate": "2020-06-12",
     "endDate": "2020-06-12",
-    "city": "Minneapolis",
-    "country": "U.S.A.",
-    "twitter": "@developer_first",
-    "cfpUrl": "https://www.developer-first.com/call-for-speakers",
-    "cfpEndDate": "2020-01-10"
+    "online": true,
+    "twitter": "@developer_first"
   },
   {
-    "name": "ServerlessDays Hamburg",
-    "url": "https://hamburg.serverlessdays.io",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-02",
-    "city": "Hamburg",
-    "country": "Germany",
-    "twitter": "@serverlessHam"
+    "name": "The Lead Developer New York",
+    "url": "https://newyork2020.theleaddeveloper.com",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-12",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "Lead Dev San Francisco",
-    "url": "https://wvnts.co/2uEbbaQ",
+    "url": "https://sanfrancisco2020.theleaddeveloper.com/",
     "startDate": "2020-10-07",
     "endDate": "2020-10-08",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@TheLeadDev",
-    "cfpUrl": "https://wvnts.co/2O3d33v",
-    "cfpEndDate": "2020-03-23"
+    "twitter": "@TheLeadDev"
+  },
+  {
+    "name": "GIDS.LEAD DEV LIVE",
+    "url": "https://www.wurreka.com/ict/virtual-conference/leaddev",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-17",
+    "online": true,
+    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
+    "cfpEndDate": "2020-10-31",
+    "twitter": "@developersummit"
+  },
+  {
+    "name": "Running Remote Online",
+    "url": "https://runningremote.com",
+    "startDate": "2020-11-18",
+    "endDate": "2020-11-18",
+    "online": true,
+    "cfpUrl": "https://runningremote.com/apply-to-speak",
+    "cfpEndDate": "2020-10-18",
+    "twitter": "@runningremote"
+  },
+  {
+    "name": "LeadDev Live Winter",
+    "url": "https://leaddev.com/events/leaddev-live-winter-2020",
+    "startDate": "2020-12-02",
+    "endDate": "2020-12-02",
+    "online": true,
+    "cfpUrl": "https://leaddev.submittable.com/submit/175490/leaddev-live-2020",
+    "cfpEndDate": "2020-10-25",
+    "twitter": "@TheLeadDev"
+  },
+  {
+    "name": "Stretch Conference",
+    "url": "https://www.stretchcon.com/2020-online",
+    "startDate": "2020-12-02",
+    "endDate": "2020-12-04",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@stretchcon",
+    "cocUrl": "https://www.stretchcon.com/2020/code-of-conduct.php",
+    "offersSignLanguageOrCC": false
   }
 ]
